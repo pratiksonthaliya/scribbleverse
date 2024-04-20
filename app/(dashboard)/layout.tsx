@@ -1,6 +1,6 @@
-import { Sidebar } from './_components/Sidebar/index'
-import { OrgSidebar } from './_components/OrgSidebar/index'
-import { Navbar } from './_components/Navbar/index'
+import { Sidebar } from './_components/Sidebar'
+import { OrgSidebar } from './_components/OrgSidebar'
+import { Navbar } from './_components/Navbar'
 
 interface DashboardLayoutProps {
   children: React.ReactNode
